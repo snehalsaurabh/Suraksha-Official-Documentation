@@ -146,7 +146,7 @@ Our first model is based on the YOLOv9 architecture, specifically fine-tuned for
 
 Below is a sample Python code demonstrating how we can use the YOLOv9 model for incident severity detection:
 
-```python
+``python
 import argparse
 import os
 import torch
