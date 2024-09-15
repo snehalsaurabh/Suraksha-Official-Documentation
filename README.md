@@ -132,7 +132,7 @@ Suraksha utilizes cutting-edge machine learning models to ensure accurate incide
 
 2. **Google Gemini Model**: Leveraging the power of Google's Gemini Model, a detailed description is generated, providing a comprehensive context of the incident depicted in the image. This ensures that not only the severity but the full context of the event is understood.
 
-![YOLOv9](Assets/YoloV9.png)
+![YOLOv9](Assets/YoloV9.jpeg)
 
 ## 🔍 How the YOLOv9 Model Works
 
