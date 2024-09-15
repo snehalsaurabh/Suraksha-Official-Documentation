@@ -1,5 +1,9 @@
 # Suraksha - The Official Documentation
 
+## Official Documentation for Suraksha - The Incident Management Platform - Hack The Mountains 5.0
+
+Streamlit Docs(https://suraksha-docs.streamlit.app/)
+
 ## 🚀 Welcome to Suraksha!
 **Suraksha** is an innovative platform designed to address a critical issue: the high rate of incidents like road accidents, physical crime, and more in India. For example, every day, over 1,200 road incidents occur, leading to numerous injuries and fatalities. Suraksha provides a comprehensive solution for recognizing, monitoring, and reporting all kinds of incidents in real-time, making it easier for both authorities and civilians to respond swiftly and effectively.
 
@@ -298,10 +302,10 @@ Suraksha is committed to pushing the boundaries of incident detection and report
 ### 🤝 Contribute to Suraksha
 We welcome contributions from the community to help shape the future of Suraksha. Here’s how you can get involved and make an impact:
 
-1. **Fork the Repository**: Click the "Fork" button on the [Suraksha GitHub repository](https://github.com/ShashwatPS/HackTheMountains) to create your own copy of the project. 🍴
+1. **Fork the Repository**: Click the "Fork" button on the [Suraksha GitHub repository](https://github.com/snehalsaurabh/Suraksha) to create your own copy of the project. 🍴
 2. **Clone Your Fork**: Clone the repository to your local machine using:
     ```bash
-    git clone https://github.com/ShashwatPS/HackTheMountains
+    git clone https://github.com/snehalsaurabh/Suraksha
     ```
     🖥️
 3. **Set Up Development Environment**: Navigate to the project directory and install dependencies:
@@ -315,5 +319,5 @@ We welcome contributions from the community to help shape the future of Suraksha
 
 We're excited to see your contributions! Thank you for being a part of the Suraksha community. 🙌
 
-[Visit GitHub Repository](https://github.com/ShashwatPS/HackTheMountains)
+[Visit GitHub Repository](https://github.com/snehalsaurabh/Suraksha)
 
