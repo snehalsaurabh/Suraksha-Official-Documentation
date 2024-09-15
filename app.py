@@ -24,7 +24,7 @@ def machine_learning():
            of the incident depicted in the image. This ensures that not only the severity but the full context of the event is understood.
     """)
     
-    st.image("Assets/YoloV9.png", caption="Model 1: YOLOv9", use_column_width=True)
+    st.image("Assets/YoloV9.jpeg", caption="Model 1: YOLOv9", use_column_width=True)
     st.subheader("🔍 How the YOLOv9 Model Works")
     st.write("""
         Our first model is based on the YOLOv9 architecture, specifically fine-tuned for incident severity detection. Let's break down its core features and functionality:
