@@ -261,10 +261,10 @@ def get_involved():
     st.write("We welcome contributions from the community to help shape the future of Suraksha. Here’s how you can get involved and make an impact:")
 
     st.markdown("""
-    1. **Fork the Repository**: Click the "Fork" button on the [Suraksha GitHub repository](https://github.com/Vibgitcode27/Suraksha) to create your own copy of the project. 🍴
+    1. **Fork the Repository**: Click the "Fork" button on the [Suraksha GitHub repository](https://github.com/ShashwatPS/HackTheMountains) to create your own copy of the project. 🍴
     2. **Clone Your Fork**: Clone the repository to your local machine using:
     ```bash
-    git clone https://github.com/Vibgitcode27/Suraksha
+    git clone https://github.com/ShashwatPS/HackTheMountains
     ```
     🖥️
     3. **Set Up Development Environment**: Navigate to the project directory and install dependencies:
@@ -280,7 +280,7 @@ def get_involved():
     st.write("We're excited to see your contributions! Thank you for being a part of the Suraksha community. 🙌")
 
     if st.button("Visit GitHub Repository"):
-        st.markdown('<a href="" target="_blank">Suraksha GitHub Repository</a>', unsafe_allow_html=True)
+        st.markdown('<a href="https://github.com/ShashwatPS/HackTheMountains" target="_blank">Suraksha GitHub Repository</a>', unsafe_allow_html=True)
 
 def competition_and_roadmap():
     st.title("🚀 Competition and Roadmap")
